@@ -1,0 +1,5 @@
+mcp==1.*
+openai>=1.45
+python-dotenv
+streamlit
+pydantic
