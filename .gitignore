@@ -28,3 +28,6 @@ venv/
 
 # macOS
 .DS_Store
+
+Github
+.gitignore
